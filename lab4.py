@@ -1,4 +1,3 @@
-
 def tinh_tien_nuoc(so_nuoc):
     gia_ban_nuoc = (7500, 8800, 12000, 24000)
     if so_nuoc <= 10 and so_nuoc >= 0:
