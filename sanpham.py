@@ -39,6 +39,7 @@ class SanPham:
         return f"Sản Phẩm{self.ten_sp} Giá: {self.gia} Giảm giá: {self.__giam_gia} Thuế nhập khẩu: {self.thue_nhap_khau()}"
 
 
+
 # Bài 3
     
 
