@@ -55,3 +55,4 @@ class QuanLySinhVien:
         print(f'{"Tên Sinh viên":<20} {"Ngành Học":<10} {"Điểm":<10} {"Học lực":<10}')
         for sv in dssv_sapxep:
             sv.xuat()   
+            
